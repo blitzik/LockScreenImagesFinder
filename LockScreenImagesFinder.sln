@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockScreenImagesFinder", "LockScreenImagesFinder\LockScreenImagesFinder.csproj", "{CC6C9BF4-AB9D-4015-BDA5-7448AE21F94B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{94033FB6-8C9F-456E-A9AD-A9640B8C3BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intf", "intf\intf.csproj", "{27AF7B46-C223-4AD7-BD7E-760D492C05D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CC6C9BF4-AB9D-4015-BDA5-7448AE21F94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6C9BF4-AB9D-4015-BDA5-7448AE21F94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6C9BF4-AB9D-4015-BDA5-7448AE21F94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94033FB6-8C9F-456E-A9AD-A9640B8C3BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94033FB6-8C9F-456E-A9AD-A9640B8C3BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94033FB6-8C9F-456E-A9AD-A9640B8C3BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94033FB6-8C9F-456E-A9AD-A9640B8C3BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AF7B46-C223-4AD7-BD7E-760D492C05D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AF7B46-C223-4AD7-BD7E-760D492C05D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AF7B46-C223-4AD7-BD7E-760D492C05D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AF7B46-C223-4AD7-BD7E-760D492C05D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

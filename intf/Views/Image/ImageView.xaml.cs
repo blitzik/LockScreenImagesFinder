@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace LockScreenImagesFinder
+namespace intf.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for ImageView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ImageView : UserControl
     {
-        public MainWindow()
+        public ImageView()
         {
             InitializeComponent();
         }
